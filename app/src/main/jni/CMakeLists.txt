@@ -47,6 +47,9 @@ find_library( # Sets the name of the path variable.
 target_link_libraries( # Specifies the target library.
         native-lib
         ${OpenCV_LIBS}
+        jnigraphics
+        android
+        media
 
         # Links the target library to the log library
         # specified in the find_library() call.
