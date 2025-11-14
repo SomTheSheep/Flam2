@@ -1,0 +1,14 @@
+{
+  "name": "web-viewer",
+  "version": "1.0.0",
+  "description": "A simple web viewer for the processed frames.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
