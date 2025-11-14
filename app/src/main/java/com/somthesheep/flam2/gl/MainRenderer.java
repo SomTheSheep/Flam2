@@ -1,4 +1,4 @@
-package com.somthesheep.flam2;
+package com.somthesheep.flam2.gl;
 
 import android.opengl.GLSurfaceView;
 
