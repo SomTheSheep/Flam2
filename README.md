@@ -12,11 +12,6 @@ This is a minimal Android app that captures camera frames, processes them using 
 ### Web
 - **Web Viewer (TypeScript)**: A minimal web page that displays a static, base64-encoded sample of a processed frame. It also shows some basic dummy stats like resolution and FPS.
 
-## 📷 Screenshot
-
-![App Screenshot](https://i.imgur.com/your-screenshot.png) 
-*(placeholder for a screenshot of the working app)*
-
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
